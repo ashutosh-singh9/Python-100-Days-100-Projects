@@ -22,10 +22,16 @@
 
 # --------------random module
 
-import random
-import math
+# import random
+# import math
 
 # num = random.random()*10
 # num2 = random.randint(0,1)
 # print(math.ceil(num))
 # print(num2)
+
+
+#-------------- lists(js wala array)
+# some properites like append
+# arr[-4] works here
+# nested lists
