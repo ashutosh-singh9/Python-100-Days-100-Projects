@@ -1,1 +1,2 @@
 # funtions
+# while
